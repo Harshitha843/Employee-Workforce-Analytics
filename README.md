@@ -1,12 +1,12 @@
-Employee Performance & Workforce Analytics
+## Employee Performance & Workforce Analytics
 
-Project Overview
+## Project Overview
 
 Employee Performance & Workforce Analytics is a data analytics project developed to analyze employee information and understand overall workforce performance.
 
 The project focuses on employee productivity, attendance, salary distribution, department-wise performance, and workforce trends. It uses data analysis and visualization techniques to convert employee data into meaningful insights that support better HR and business decision-making.
 
-Tools and Technologies Used
+## Tools and Technologies Used
 
 Python – Data processing and analysis.
 
@@ -18,7 +18,7 @@ Microsoft Excel – Dataset handling and data preparation.
 
 Power BI – Interactive dashboard development and data visualization.
 
-Database Implementation
+## Database Implementation
 
 MySQL
 
@@ -36,14 +36,8 @@ Worked with collections and JSON-based documents.
 
 Exported collection data for project documentation and sharing.
 
-Database Files
 
-MySQL/employee_workforce.sql – MySQL database structure and exported SQL data.
-
-MongoDB/employees.json – Exported MongoDB collection data.
-
-
-Project Methodology
+## Project Methodology
 
 1. Data Collection
 
@@ -87,7 +81,7 @@ Presented important workforce metrics using KPI cards, charts, and tables.
 
 Designed visualizations to make employee data easier to understand.
 
-Key Outcomes
+## Key Outcomes
 
 Analyzed employee workforce information.
 
@@ -101,6 +95,6 @@ Developed an interactive Power BI dashboard.
 
 Presented workforce insights to support data-driven HR decisions
 
-Conclusion
+## Conclusion
 
 This project provided practical experience in data cleaning, database management, workforce analysis, and dashboard development. By combining Python, MySQL, MongoDB, Excel, and Power BI, the project demonstrates how employee data can be transformed into meaningful workforce insights and support effective decision-making.
